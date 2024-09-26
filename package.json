@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adrifcastr/team-preview.git"
+    "url": "git+https://github.com/dipeshu-001/team-preview.git"
   },
   "keywords": [
     "Pokémon",
@@ -29,20 +29,21 @@
   "author": "adrifcastr",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adrifcastr/team-preview/issues"
+    "url": "https://github.com/dipeshu-001/team-preview/issues"
   },
-  "homepage": "https://github.com/adrifcastr/team-preview#readme",
+  "homepage": "https://github.com/dipeshu-001/team-preview#readme",
   "dependencies": {
     "@pkmn/data": "^0.4.6",
     "@pkmn/dex": "^0.4.6",
     "@pkmn/img": "^0.1.7",
     "@pkmn/sets": "^2.0.0",
-    "@shineiichijo/canvas-chan": "^0.9.21",
-    "tslib": "^2.2.0",
-    "typescript": "^4.5.5"
+    "@shineiichijo/canvas-chan": "^1.0.1",
+    "skia-canvas": "^1.0.2",
+    "tslib": "^2.7.0",
+    "typescript": "^5.6.2"
   },
   "devDependencies": {
     "@types/node": "^17.0.21",
-    "@types/skia-canvas": "^0.9.0"
+    "@types/skia-canvas": "^0.9.28"
   }
 }
