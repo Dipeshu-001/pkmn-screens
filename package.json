@@ -37,7 +37,7 @@
     "@pkmn/dex": "^0.4.6",
     "@pkmn/img": "^0.1.7",
     "@pkmn/sets": "^2.0.0",
-    "skia-canvas": "^0.9.21",
+    "@shineiichijo/canvas-chan": "^0.9.21",
     "tslib": "^2.2.0",
     "typescript": "^4.5.5"
   },
